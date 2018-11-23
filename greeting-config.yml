@@ -5,8 +5,6 @@ management:
 logging: # <----New sections below
     level:
         root: WARN
-        io:
-            pivotal: INFO
         com:
             orangeandbronze: INFO     
 
