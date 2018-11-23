@@ -9,6 +9,6 @@ logging: # <----New sections below
             orangeandbronze: DEBUG
 
 greeting:
-    displayFortune: false
+    displayFortune: true
 
 quoteServiceURL: http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1
