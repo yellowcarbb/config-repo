@@ -5,8 +5,10 @@ management:
 logging: # <----New sections below
     level:
         root: WARN
+        io:
+            pivotal: INFO
         com:
-            orangeandbronze: DEBUG
+            orangeandbronze: INFO     
 
 greeting:
     displayFortune: true
